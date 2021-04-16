@@ -27,7 +27,7 @@ let city_gspikes =
    e_blocked = None;
    w_blocked = None;}
 
-(* [city_g3spikes] is a 3-spike ground spike in the city stages. *)
+(* [city_g3spikes] is a 3 spike ground spike in the city stages. *)
 let city_g3spikes = 
   {x_pos = 320.; y_pos = 375.; 
    width = 20.; height = 10.; 
