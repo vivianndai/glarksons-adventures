@@ -21,6 +21,7 @@ let initial_state = {
 
 let state = ref (initial_state)
 
+let canvas_diagonal = 700.
 let canvas_width = 755.
 let canvas_height = 600.
 
