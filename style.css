@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Arcade;
+  src: url(images/arcadeclassic/ARCADECLASSIC.TTF);
+}
+
+html {
+  width: 100%;
+}
+
+body {
+  background-color: #070b1a;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Arcade", "sans-serif";
+  color: #dcdee3;
+}
+
+.instructions {
+  display: block;
+  margin-left: 30%;
+  font-family: "Arcade", "sans-serif";
+  color: #dcdee3;
+}
+
+.center {
+  display: block;
+  margin-left: 30%;
+}

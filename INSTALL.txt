@@ -1,0 +1,13 @@
+Make sure you are running OCaml locally.
+
+1. Unzip the file and navigate to project directory.
+
+2. Run 'make install'. 
+
+3. Run 'make build'
+
+4. Navigate to the index.html file created. Right click on it, click
+    "reveal in explorer/finder" and open it in your browser. 
+
+5. Enjoy playing the game! 
+
